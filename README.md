@@ -1,11 +1,11 @@
-### Hi 
-👩‍💻Software Engineering/📚ReactJS & Python
+### Hello World!
+🧠 Data scientist | full stack | engineer 
 
 
 <div>
  <a href="www.linkedin.com/in/claudioestevam">
- <img height="43%" src="https://github-readme-stats.vercel.app/api?username=claudioestevam7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioestevam7&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="43%" src="https://github-readme-stats.vercel.app/api?username=claudioestevam7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioestevam7&layout=compact&langs_count=7&theme=dark"/>
  </div>
  
  
