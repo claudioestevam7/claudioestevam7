@@ -4,8 +4,8 @@
 
 <div>
  <a href="https://www.linkedin.com/in/isabella-ramos-5177b71b8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bbngx7d%2FrSMCtLG%2B5bIZZ5A%3D%3D">
- <img height="43%" src="https://github-readme-stats.vercel.app/api?username=isabellaaramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaaramos&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="43%" src="https://github-readme-stats.vercel.app/api?username=claudioestevam7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioestevam7&layout=compact&langs_count=7&theme=dracula"/>
  </div>
  
  
