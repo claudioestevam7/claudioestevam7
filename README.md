@@ -1,4 +1,4 @@
-### Hi ❤
+### Hi 
 👩‍💻Software Engineering/📚ReactJS & Python
 
 
