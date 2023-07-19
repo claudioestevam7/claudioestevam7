@@ -1,7 +1,7 @@
 <span align="center">
 
 ## *Olá, seja muito bem-vindo ao meu perfil GitHub!*
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1B98E0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Cláudio+Estevam.;I'm+from+Brazil+and+24+years+old!;Expert+professional+in:+Data+Scientist,;Bachelor's+in+Mechanical+Engineering.;Bachelor's+in+Actuarial+Sciences.;Master's+Degree+in+Applied+Statistics.;Quality+Inspector,+Automation,+Consultancy,;+Project+Management,+Analyst,+Statistic,;+Data+Science,+Investigator,+Civic+Researcher;and+Full+Stack+Developer+with+a+focus+on+Python.;I'am+future+Artificial+Intelligence+Engineering!;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1B98E0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Cláudio+Estevam.;I'm+from+Brazil+and+24+years+old!;Bachelor's+in+Mechanical+Engineering.;Bachelor's+in+Actuarial+Sciences.;Master's+Degree+in+Applied+Statistics.;Expert+professional+in:+Data+Scientist,;Quality+Inspector,+Automation,+Consultancy,;+Project+Management,+Analyst,+Statistic,;+Data+Science,+Investigator,+Civic+Researcher;and+Full+Stack+Developer+with+a+focus+on+Python.;I'am+future+Artificial+Intelligence+Engineering!;Be+Welcome!)](https://git.io/typing-svg)
 
 </span>
 
